@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.title {
+  @apply text-5xl mb-4 font-nerd;
+}
+
+.heading {
+  @apply text-2xl mb-1 font-nerd;
+}

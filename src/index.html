@@ -5,34 +5,73 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tailwind Webpack Starter</title>
+  <title>Jordy Pereira</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Rajdhani:wght@300&display=swap"
+    rel="stylesheet">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="">
   <meta property="og:title" content="Tailwind Webpack Starter">
   <meta property="og:description" content="Tailwind Webpack Starter">
-  <meta property="og:image" content="./images/tailwindcss.png">
+  <meta property="og:image" content="./images/profile.jpg">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="">
   <meta property="twitter:title" content="Tailwind Webpack Starter">
   <meta property="twitter:description" content="Tailwind Webpack Starter">
-  <meta property="twitter:image" content="./images/tailwindcss.png">
+  <meta property="twitter:image" content="./images/profile.jpg">
 </head>
 
-<body class="min-h-screen bg-white">
-  <header>
-    <div class="flex justify-center p-8 md:p-16">
-      <h1 class="text-5xl font-sans">
-        Tailwind Webpack Starter
-      </h1>
+<body class="min-h-screen pb-12 bg-white">
+
+  <header class="md:mt-32">
+    <div class="flex flex-col md:flex-row gap-12 justify-center items-center p-8">
+      <div class="flex flex-col items-center">
+        <h1 class="title flex flex-col">
+          <span>Jordy</span> <span class="ml-16">Pereira</span>
+        </h1>
+        <div class="mt-4">Developer based in Stockholm, Sweden</div>
+        <ul class="flex w-full justify-between text-red-600  gap-2">
+          <li class="hover:text-red-400">
+            <a href="https://github.com/jordypereira">Github</a>
+          </li>
+          <li class="hover:text-red-400">
+            <a href="Twitter">Twitter</a>
+          </li>
+          <li class="hover:text-red-400">
+            <a href="Linkedin">Linkedin</a>
+          </li>
+          <li class="hover:text-red-400">
+            <a href="Dev">Dev</a>.to
+          </li>
+        </ul>
+      </div>
+      <img class="rounded-full" width="200" src="./images/profile3.jpg" alt="me">
     </div>
   </header>
 
-  <main class="flex justify-center">
-    <img src="./images/tailwindcss.png" alt="tailwindcss">
+  <main class="max-w-3xl mx-6 md:mx-auto">
+    <section>
+      <h2 class="heading">About</h2>
+      <p>I want to grow and keep learning as a developer. One of my goals is to learn more in public, participating and
+        sharing with the community.</p>
+    </section>
+    <section class="mt-12">
+      <h2 class="heading">Experience</h2>
+      <ol>
+        <li>2019 - now: Prorenata AB - Frontend Developer</li>
+        <li>2016 - 2019: Karel de Grote University College - Bachelor in Science: Multimedia Technology: Web &
+          UX</li>
+      </ol>
+    </section>
+    <section class="mt-12">
+      <h2 class="heading">Projects</h2>
+      <p>Example Front end E-commerce site</p>
+      <p></p>
+    </section>
   </main>
 </body>
 
