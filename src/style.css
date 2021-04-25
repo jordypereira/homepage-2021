@@ -4,6 +4,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
 
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #dc2626;
+}
+
+::selection {
+  color: white;
+  background: #dc2626;
+}
+
 .title {
   @apply text-5xl mb-4 font-nerd;
 }
