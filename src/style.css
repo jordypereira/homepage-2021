@@ -21,3 +21,16 @@
 .heading {
   @apply text-2xl mb-1 font-nerd;
 }
+
+article h2 {
+  @apply text-3xl mb-1 font-nerd;
+}
+article h3 {
+  @apply text-2xl mb-1 mt-4 font-nerd;
+}
+article p img {
+  @apply inline mt-1;
+}
+article a {
+  @apply text-red-600;
+}
