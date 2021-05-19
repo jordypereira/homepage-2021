@@ -124,7 +124,7 @@ _Creating websites for clients as a Student-Entrepreneur, discovering the power 
 - [StarWars API](https://github.com/jordypereira/starwarsApp-API) - 14 Mar 2018
 - [StarWars React app](https://github.com/jordypereira/starwarsApp-REACT) - 14 Mar 2018
 - [NiceGuysWebsite] - 8 Feb 2018
-- [Cogitandus] - 27 Jan 2018
+- [Cogitandus](https://github.com/jordypereira/Cogitandus) - 27 Jan 2018
 
 ### 2017
 
@@ -185,7 +185,6 @@ _photography, 3D modeling, game dev, design, animation, video, photoshop_
 
 [VueGallery]: https://github.com/jordypereira/VueGallery
 [ArenbergVue]: https://github.com/jordypereira/Arenberg-Vue
-[cogitandus]: https://www.notion.so/perjor/Cogitandus-79b9e806f5774964a77cc50b42713758
 [manon21]: https://github.com/jordypereira/Cogitandus
 [giftly]: https://github.com/jordypereira/giftly
 [NiceGuysWebsite]: https://github.com/jordypereira/NiceGuysWebsite
