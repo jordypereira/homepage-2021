@@ -37,6 +37,7 @@
     "postcss": "^8.2.10",
     "postcss-loader": "^5.2.0",
     "postcss-preset-env": "^6.7.0",
+    "remark-loader": "^4.0.0",
     "tailwindcss": "^2.1.1",
     "webpack": "^5.33.2",
     "webpack-cli": "^4.6.0",
@@ -44,5 +45,8 @@
   },
   "engines": {
     "node": ">=12.13.0"
+  },
+  "dependencies": {
+    "remark-html": "^13.0.1"
   }
 }
