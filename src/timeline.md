@@ -1,7 +1,7 @@
 ## Timeline
 
 ### 2021
-_Keep on crunching_
+_Writing clear code and communicating with my team and my future-self_
 
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue%203-4FC08D?logo=vue-dot-js&logoColor=white&style=for-the-badge"/>
@@ -75,7 +75,7 @@ _My final year as a student, doing the big projects_
 
 ### 2018
 
-_Creating websites for clients as a Student-Entrepreneur_
+_Creating websites for clients as a Student-Entrepreneur, discovering the power of vue_
 
 <p>
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?logo=Nuxt-dot-js&logoColor=white&style=for-the-badge">
@@ -128,7 +128,7 @@ _Creating websites for clients as a Student-Entrepreneur_
 
 ### 2017
 
-_Webmaster for the studentclub, discovering Vuejs_
+_Webmaster for the studentclub_
 
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=for-the-badge"/>
