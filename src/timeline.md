@@ -34,7 +34,7 @@ _Started at my first company_
 </p>
 
 - [Malin Homepage](https://github.com/jordypereira/malin-first-website) - 13 October 2020
-- [Printout Template Editor](https://www.notion.so/perjor/PTE-Printout-Template-Editor-c919d23acffc49bd865a660215a81996) - October 2020
+- [Template Creator App](https://perjor.notion.site/Template-Creator-with-dragging-tags-c919d23acffc49bd865a660215a81996) - October 2020
 
 ### 2019
 
