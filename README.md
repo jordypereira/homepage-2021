@@ -1,6 +1,6 @@
 # Tailwind Webpack Starter
 
-When you need to make a simple HTML page but still want some DX and taiwlind.
+When you need to make a simple HTML page but still want some DX and tailwind.
 
 Webpack is used as a dev server and a way to compile tailwindcss.
 
