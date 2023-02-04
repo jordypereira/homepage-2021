@@ -1,5 +1,23 @@
 ## Timeline
 
+### 2022
+_Leading projects and writing API integrations_
+
+<p>
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
+  <img alt="Zod" src="https://img.shields.io/badge/-Zod-%233068B7?style=for-the-badge"/>
+  <img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white"/>
+</p>
+
+<p>
+  <img alt="Asana" src="https://img.shields.io/badge/-Asana-f06a6a?style=for-the-badge"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+
+- [Multi-Currency storefronts](https://perjor.notion.site/Multi-Currency-storefronts-0ac5943f24a64309ab951adf2096f94f) - Dec 2022
+- [M2 -> Brink Ecommerce Backend](https://perjor.notion.site/Brink-Adyen-Sessions-Checkout-flow-0c77c3dc81c1414cbff93fbc317d4591) - Sept 2022 - Tech Lead to migrate our ecommerce backend
+- [Emarsys CRM Foundation](https://perjor.notion.site/Emarsys-CRM-Data-Foundation-fda3f426c1de4c0caf1a560e2728e850) - Feb 2022 - Set up all the data flows from the website to our CRM.
+
 ### 2021
 _Writing clear code and communicating with my team and my future-self_
 
@@ -8,6 +26,7 @@ _Writing clear code and communicating with my team and my future-self_
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge"/>
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"/>
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?logo=Vuetify&logoColor=white&style=for-the-badge"/>
+  <img alt="WindiCSS" src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white"/>
 </p>
 
 <p>
@@ -60,7 +79,7 @@ _My final year as a student, doing the big projects_
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=black&style=for-the-badge"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge">
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=for-the-badge"/>
   <img alt="FFmpeg" src="https://img.shields.io/badge/-FFmpeg-007808?logo=FFmpeg&logoColor=white&style=for-the-badge"/>
   <img alt="Google Photos" src="https://img.shields.io/badge/-Google%20Photos-4285F4?logo=Google-Photos&logoColor=white&style=for-the-badge"/>
@@ -79,7 +98,7 @@ _Creating websites for clients as a Student-Entrepreneur, discovering the power 
 
 <p>
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?logo=Nuxt-dot-js&logoColor=white&style=for-the-badge">
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue-dot-js&logoColor=white&style=for-the-badge"/>
+  <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <img alt="Vuex" src="https://img.shields.io/badge/-Vuex-4FC08D?logo=vue-dot-js&logoColor=white&style=for-the-badge"/>
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?logo=Vuetify&logoColor=white&style=for-the-badge"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=for-the-badge"/>
