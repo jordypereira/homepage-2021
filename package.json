@@ -1,19 +1,19 @@
 {
-  "name": "tailwind-webpack-starter",
+  "name": "homepage-2021",
   "version": "1.0.0",
-  "description": "Webpack tailwind template",
+  "description": "Homepage 2021",
   "main": "index.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "dev": "NODE_ENV=development webpack serve --mode=development",
+    "dev": "parcel src/timeline.html",
     "build": "export NODE_ENV=production && webpack",
     "build:dev": "export NODE_ENV=development && webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/perjor/tailwind-webpack-starter/.git"
+    "url": "git+https://github.com/jordypereira/homepage-2021/.git"
   },
   "keywords": [
-    "template",
     "tailwind",
     "webpack",
     "simple",
@@ -22,29 +22,18 @@
   "author": "Jordy Pereira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/perjor/tailwind-webpack-starter/issues"
+    "url": "https://github.com/jordypereira/homepage-2021/issues"
   },
-  "homepage": "https://github.com/perjor/tailwind-webpack-starter/#readme",
+  "homepage": "https://github.com/jordypereira/homepage-2021/#readme",
   "devDependencies": {
-    "autoprefixer": "^10.2.5",
-    "clean-webpack-plugin": "^3.0.0",
-    "copy-webpack-plugin": "^8.1.1",
-    "css-loader": "^5.2.2",
-    "html-loader": "^2.1.2",
-    "html-webpack-plugin": "^5.3.1",
-    "mini-css-extract-plugin": "^1.5.0",
-    "postcss": "^8.2.10",
-    "postcss-loader": "^5.2.0",
-    "postcss-preset-env": "^5.3.0",
+    "parcel": "^2.8.2",
+    "parcel-transformer-markdown": "^2.1.1",
+    "postcss": "^8.4.20",
     "remark": "^13.0.0",
     "remark-html": "^13.0.1",
-    "remark-loader": "^4.0.0",
-    "tailwindcss": "^2.1.1",
-    "webpack": "^5.33.2",
-    "webpack-cli": "^4.6.0",
-    "webpack-dev-server": "^3.11.2"
+    "tailwindcss": "^3.2.4"
   },
-  "engines": {
-    "node": ">=12.13.0"
+  "volta": {
+    "node": "18.12.1"
   }
 }
