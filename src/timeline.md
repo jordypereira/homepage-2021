@@ -19,7 +19,7 @@ _Leading projects and writing API integrations_
 - [Emarsys CRM Foundation](https://perjor.notion.site/Emarsys-CRM-Data-Foundation-fda3f426c1de4c0caf1a560e2728e850) - Feb 2022 - Set up all the data flows from the website to our CRM.
 
 ### 2021
-_Writing clear code and communicating with my team and my future-self_
+_Writing clear code and communicating with my team and future-self_
 
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue%203-4FC08D?logo=vue-dot-js&logoColor=white&style=for-the-badge"/>
