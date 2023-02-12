@@ -15,7 +15,7 @@ _Leading projects and writing API integrations_
 </p>
 
 - [Multi-Currency storefronts](https://perjor.notion.site/Multi-Currency-storefronts-0ac5943f24a64309ab951adf2096f94f) - Dec 2022
-- [M2 -> Brink Ecommerce Backend](https://perjor.notion.site/Brink-Adyen-Sessions-Checkout-flow-0c77c3dc81c1414cbff93fbc317d4591) - Sept 2022 - Tech Lead to migrate our ecommerce backend
+- [M2 → Brink Ecommerce Backend](https://perjor.notion.site/Brink-Adyen-Sessions-Checkout-flow-0c77c3dc81c1414cbff93fbc317d4591) - Sept 2022 - Tech Lead to migrate our ecommerce backend
 - [Emarsys CRM Foundation](https://perjor.notion.site/Emarsys-CRM-Data-Foundation-fda3f426c1de4c0caf1a560e2728e850) - Feb 2022 - Set up all the data flows from the website to our CRM.
 
 ### 2021
