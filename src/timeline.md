@@ -9,6 +9,8 @@ _Lead Developer making sure all parts and people of the E-Commerce platform flow
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
+- Serverless Setup - Feb 2023 - Upgrade the frontend framework to Nuxt 3 and setting up Serverless infrastructure, caching (upstash), hosting (vercel), CDNs (fastly), and data management with BigQuery.
+
 ### 2022
 _Leading projects and writing API integrations_
 
