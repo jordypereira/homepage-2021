@@ -1,5 +1,14 @@
 ## Timeline
 
+### 2023
+_Lead Developer making sure all parts and people of the E-Commerce platform flow nicely together_
+
+<p>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
 ### 2022
 _Leading projects and writing API integrations_
 
